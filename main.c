@@ -1,4 +1,5 @@
-
+// John Park (R#11487176) | Assingment #3 | 10/14/2020
+//
 // This program accepts a file through argv and iterates through functions to         print out lexemes and its corresponding tokens. 
 //
 //
